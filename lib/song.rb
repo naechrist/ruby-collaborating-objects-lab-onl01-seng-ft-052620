@@ -26,5 +26,3 @@ class Song
     @@all
   end
 end
-
-#.chomp(".mp3")
